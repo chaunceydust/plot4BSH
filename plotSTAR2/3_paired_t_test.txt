@@ -1,0 +1,25 @@
+BA	Group	p	s
+CA	L.fermentum	0.229	 
+CA	L.animalis	0.159	 
+CA	L.salivarius	0.194	 
+CA	L.reuteri	0.108	 
+CDCA	L.fermentum	0.192	 
+CDCA	L.animalis	0.412	 
+CDCA	L.salivarius	0.24	 
+CDCA	L.reuteri	0.02	*
+DCA	L.fermentum	0.025	*
+DCA	L.animalis	0.227	 
+DCA	L.salivarius	0.034	*
+DCA	L.reuteri	0.002	**
+LCA	L.fermentum	0.068	 
+LCA	L.animalis	0.261	 
+LCA	L.salivarius	0.12	 
+LCA	L.reuteri	0.014	*
+UDCA	L.fermentum	0.364	 
+UDCA	L.animalis	0.252	 
+UDCA	L.salivarius	0.742	 
+UDCA	L.reuteri	0.05	 
+BMCA	L.fermentum	0.075	 
+BMCA	L.animalis	0.123	 
+BMCA	L.salivarius	0.081	 
+BMCA	L.reuteri	0.009	**

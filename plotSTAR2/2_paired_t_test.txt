@@ -1,0 +1,9 @@
+Type	group2	p	s
+conjugated BAs	L.animalis	0.214	 
+conjugated BAs	L.fermentum	0.113	 
+conjugated BAs	L.reuteri	0.004	**
+conjugated BAs	L.salivarius	0.134	 
+Unconjugated BAs	L.animalis	0.214	 
+Unconjugated BAs	L.fermentum	0.113	 
+Unconjugated BAs	L.reuteri	0.004	**
+Unconjugated BAs	L.salivarius	0.134	 

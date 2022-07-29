@@ -1,0 +1,582 @@
+ID	Pop	age	gender	BMI	diagnose
+A.ERR247176	AU				healthy
+A.ERR505083	AU				healthy
+A.ERR505084	AU				healthy
+A.ERR505085	AU				healthy
+A.ERR505086	AU				healthy
+A.ERR505087	AU				healthy
+A.ERR505088	AU				healthy
+A.ERR505089	AU				healthy
+A.ERR505090	AU				healthy
+A.ERR505091	AU				healthy
+A.ERR505092	AU				healthy
+A.ERR505093	AU				healthy
+A.ERR505094	AU				healthy
+A.ERR505095	AU				healthy
+A.ERR505096	AU				healthy
+A.ERR505097	AU				healthy
+A.ERR505098	AU				healthy
+A.ERR505099	AU				healthy
+A.ERR505100	AU				healthy
+A.ERR505101	AU				healthy
+A.ERR505102	AU				healthy
+A.ERR505103	AU				healthy
+A.ERR505104	AU				healthy
+A.ERR505105	AU				healthy
+A.ERR505106	AU				healthy
+A.S629	AT	71	F	29	healthy
+A.S631	AT	71	F	29	healthy
+A.S632	AT	72	F	28.7	healthy
+A.S633	AT	69	F	28.3	healthy
+A.S634	AT	74	F	28.3	healthy
+A.S635	AT	74	F	28.5	healthy
+A.S636	AT	74	F	28.5	healthy
+A.S637	AT	62	F	22.1	healthy
+A.S638	AT	60	F	22.1	healthy
+A.S639	AT	68	F	22.1	healthy
+A.S640	AT	68	F	22.4	healthy
+A.S641	AT	67	F	22.58	healthy
+A.S642	AT	70	F	22.67	healthy
+A.S643	AT	70	F	22.8	healthy
+A.S644	AT	68	F	21.7	healthy
+A.S645	AT	66	F	21.7	healthy
+A.S646	AT	69	F	22.4	healthy
+A.S647	AT	46	M	28.74	healthy
+A.S659	AT	68	M	29.8	healthy
+A.S660	AT	73	M	29.7	healthy
+A.S661	AT	64	M	29.38	healthy
+A.S662	AT	64	M	29.3	healthy
+A.S663	AT	65	M	29.06	healthy
+A.S664	AT	71	M	29.04	healthy
+A.S665	AT	72	M	29.03	healthy
+A.S667	AT	65	M	28.9	healthy
+A.S668	AT	67	M	23.14	healthy
+A.S669	AT	46	M	23.15	healthy
+A.S670	AT	68	M	23.45	healthy
+A.S671	AT	70	M	23.67	healthy
+A.S672	AT	65	M	22.03	healthy
+A.S673	AT	68	M	22.2	healthy
+A.S674	AT	70	M	22.64	healthy
+A.S675	AT	64	M	22.78	healthy
+A.S676	AT	67	M	22.79	healthy
+A.S679	AT	66	M	29.98	healthy
+A.S936	AT	55	M	27.76	healthy
+A.S937	AT	70	M	28.72	healthy
+A.S938	AT	73	F	26.56	healthy
+A.S939	AT	68	M	23.53	healthy
+A.S943	AT	43	F	22.65	healthy
+A.SRS011061	US		F		healthy
+A.SRS011134	US		M		healthy
+A.SRS011239	US		F		healthy
+A.SRS011271	US		M		healthy
+A.SRS011302	US		F		healthy
+A.SRS011405	US		F		healthy
+A.SRS011452	US		M		healthy
+A.SRS011529	US		M		healthy
+A.SRS011586	US		F		healthy
+A.SRS012273	US		F		healthy
+A.SRS012902	US		F		healthy
+A.SRS013158	US		F		healthy
+A.SRS013215	US		M		healthy
+A.SRS013476	US		M		healthy
+A.SRS013521	US		F		healthy
+A.SRS013687	US		M		healthy
+A.SRS013800	US		M		healthy
+A.SRS013951	US		M		healthy
+A.SRS014235	US		M		healthy
+A.SRS014287	US		M		healthy
+A.SRS014313	US		F		healthy
+A.SRS014459	US		F		healthy
+A.SRS014613	US		F		healthy
+A.SRS014683	US		M		healthy
+A.SRS014923	US		M		healthy
+A.SRS014979	US		F		healthy
+A.SRS015065	US		F		healthy
+A.SRS015133	US		F		healthy
+A.SRS015190	US		F		healthy
+A.SRS015217	US		F		healthy
+A.SRS015264	US		M		healthy
+A.SRS015369	US		F		healthy
+A.SRS015578	US		M		healthy
+A.SRS015663	US		M		healthy
+A.SRS015782	US		M		healthy
+A.SRS015794	US		M		healthy
+A.SRS015854	US		M		healthy
+A.SRS015960	US		M		healthy
+A.SRS016018	US		M		healthy
+A.SRS016056	US		M		healthy
+A.SRS016095	US		F		healthy
+A.SRS016203	US		F		healthy
+A.SRS016267	US		M		healthy
+A.SRS016335	US		M		healthy
+A.SRS016495	US		F		healthy
+A.SRS016517	US		F		healthy
+A.SRS016585	US		F		healthy
+A.SRS016753	US		M		healthy
+A.SRS016954	US		M		healthy
+A.SRS016989	US		M		healthy
+A.SRS017103	US		M		healthy
+A.SRS017191	US		M		healthy
+A.SRS017247	US		M		healthy
+A.SRS017307	US		M		healthy
+A.SRS017433	US		F		healthy
+A.SRS017521	US		F		healthy
+A.SRS017701	US		F		healthy
+A.SRS017821	US		M		healthy
+A.SRS018133	US		M		healthy
+A.SRS018313	US		M		healthy
+A.SRS018351	US		M		healthy
+A.SRS018427	US		M		healthy
+A.SRS018575	US		M		healthy
+A.SRS018656	US		F		healthy
+A.SRS018817	US		M		healthy
+A.SRS019030	US		M		healthy
+A.SRS019161	US		M		healthy
+A.SRS019267	US		F		healthy
+A.SRS019397	US		M		healthy
+A.SRS019582	US		M		healthy
+A.SRS019601	US		F		healthy
+A.SRS019685	US		M		healthy
+A.SRS019787	US		M		healthy
+A.SRS019910	US		M		healthy
+A.SRS019968	US		F		healthy
+A.SRS020233	US		M		healthy
+A.SRS020328	US		F		healthy
+A.SRS020869	US		M		healthy
+A.SRS021484	US		M		healthy
+A.SRS021948	US		F		healthy
+A.SRS022071	US		F		healthy
+A.SRS022137	US		F		healthy
+A.SRS022524	US		F		healthy
+A.SRS022609	US		M		healthy
+A.SRS022713	US		F		healthy
+A.SRS023176	US		M		healthy
+A.SRS023346	US		F		healthy
+A.SRS023526	US		M		healthy
+A.SRS023583	US		F		healthy
+A.SRS023829	US		F		healthy
+A.SRS023914	US		M		healthy
+A.SRS023971	US		M		healthy
+A.SRS024009	US		F		healthy
+A.SRS024075	US		M		healthy
+A.SRS024132	US		M		healthy
+A.SRS024265	US		F		healthy
+A.SRS024331	US		M		healthy
+A.SRS024388	US		F		healthy
+A.SRS024435	US		M		healthy
+A.SRS024549	US		M		healthy
+A.SRS024625	US		M		healthy
+A.SRS042284	US		F		healthy
+A.SRS042628	US		M		healthy
+A.SRS043001	US		F		healthy
+A.SRS043411	US		M		healthy
+A.SRS043701	US		M		healthy
+A.SRS045004	US		M		healthy
+A.SRS045645	US		M		healthy
+A.SRS045713	US		M		healthy
+A.SRS047014	US		M		healthy
+A.SRS047044	US		M		healthy
+A.SRS048164	US		M		healthy
+A.SRS048870	US		F		healthy
+A.SRS049164	US		M		healthy
+A.SRS049712	US		M		healthy
+A.SRS049900	US		M		healthy
+A.SRS049959	US		M		healthy
+A.SRS049995	US		F		healthy
+A.SRS050299	US		M		healthy
+A.SRS050422	US		M		healthy
+A.SRS050752	US		F		healthy
+A.SRS050925	US		M		healthy
+A.SRS051031	US		M		healthy
+A.SRS051882	US		F		healthy
+A.SRS052027	US		M		healthy
+A.SRS052697	US		F		healthy
+A.SRS053214	US		F		healthy
+A.SRS053335	US		F		healthy
+A.SRS053398	US		F		healthy
+A.SRS054590	US		F		healthy
+A.SRS054956	US		F		healthy
+A.SRS055982	US		F		healthy
+A.SRS056259	US		M		healthy
+A.SRS056519	US		M		healthy
+A.SRS057478	US		F		healthy
+A.SRS057717	US		F		healthy
+A.SRS058723	US		F		healthy
+A.SRS058770	US		M		healthy
+A.SRS062427	US		M		healthy
+A.SRS063040	US		F		healthy
+A.SRS063985	US		F		healthy
+A.SRS064276	US		F		healthy
+A.SRS064557	US		F		healthy
+A.SRS064645	US		M		healthy
+A.SRS065504	US		F		healthy
+A.SRS075398	US		F		healthy
+A.SRS077730	US		F		healthy
+A.SRS078176	US		F		healthy
+D.MH0001 	DK	49	F	25.55	healthy
+D.MH0002	DK	59	F	27.28	healthy
+D.MH0005	DK	64	M	21.68	healthy
+D.MH0006	DK	59	F	22.38	healthy
+D.MH0008	DK	59	M	24.35	healthy
+D.MH0009	DK	64	M	29.04	healthy
+D.MH0013	DK	54	M	20.46	healthy
+D.MH0015	DK	59	M	25.47	healthy
+D.MH0017	DK	64	M	21.81	healthy
+D.MH0019	DK	44	F	20.01	healthy
+D.MH0021	DK	49	F	25.42	healthy
+D.MH0022	DK	64	M	24.42	healthy
+D.MH0024	DK	59	F	22.72	healthy
+D.MH0027	DK	59	F	23.07	healthy
+D.MH0028	DK	44	F	22.7	healthy
+D.MH0031	DK	69	M	22.34	healthy
+D.MH0035	DK	49	M	22.66	healthy
+D.MH0037	DK	44	M	24.02	healthy
+D.MH0038	DK	54	F	21.97	healthy
+D.MH0039	DK	58	M	23.07	healthy
+D.MH0040	DK	67	F	20.87	healthy
+D.MH0041	DK	59	M	23.17	healthy
+D.MH0042	DK	49	M	24.46	healthy
+D.MH0043	DK	69	M	23.72	healthy
+D.MH0044	DK	64	M	24.48	healthy
+D.MH0045	DK	59	M	25.11	healthy
+D.MH0046	DK	54	M	23.74	healthy
+D.MH0048	DK	54	F	19.4	healthy
+D.MH0050	DK	49	M	25.08	healthy
+D.MH0051	DK	69	F	23.15	healthy
+D.MH0054	DK	49	M	20.31	healthy
+D.MH0056	DK	54	M	25.35	healthy
+D.MH0058	DK	54	F	22.04	healthy
+D.MH0060	DK	54	M	23.52	healthy
+D.MH0064	DK	54	F	23.18	healthy
+D.MH0065	DK	59	M	28.23	healthy
+D.MH0066	DK	44	F	20.79	healthy
+D.MH0067	DK	54	M	21.07	healthy
+D.MH0068	DK	54	F	28.97	healthy
+D.MH0070	DK	49	M	22.69	healthy
+D.MH0071	DK	44	F	25.37	healthy
+D.MH0074	DK	49	F	20.46	healthy
+D.MH0077	DK	49	F	24.92	healthy
+D.MH0079	DK	64	F	19.97	healthy
+D.MH0080	DK	59	F	18.59	healthy
+D.MH0082	DK	59	F	22.56	healthy
+D.MH0086	DK	59	F	21.59	healthy
+E.SRR341618	CN	44	F	19.33	healthy
+E.SRR341620	CN	39	F	20.57	healthy
+E.SRR341621	CN	27	F	18.99	healthy
+E.SRR341622	CN	35	F	20.17	healthy
+E.SRR341623	CN	25	F	18.52	healthy
+E.SRR341624	CN	37	F	18.67	healthy
+E.SRR341625	CN	32	M	19.14	healthy
+E.SRR341626	CN	23	M	19.49	healthy
+E.SRR341627	CN	42	M	19.13	healthy
+E.SRR341628	CN	22	M	19.57	healthy
+E.SRR341631	CN	23	M	19.47	healthy
+E.SRR341632	CN	23	M	19.16	healthy
+E.SRR341633	CN	38	M	19.38	healthy
+E.SRR341635	CN	45	F	25.51	healthy
+E.SRR341636	CN	51	F	26.56	healthy
+E.SRR341637	CN	33	F	25.07	healthy
+E.SRR341638	CN	35	F	26.13	healthy
+E.SRR341639	CN	32	F	24.89	healthy
+E.SRR341640	CN	26	F	25.24	healthy
+E.SRR341641	CN	30	F	25.39	healthy
+E.SRR341642	CN	41	F	25.48	healthy
+E.SRR341643	CN	42	F	25.59	healthy
+E.SRR341644	CN	32	M	29.06	healthy
+E.SRR341645	CN	72	M	23.66	healthy
+E.SRR341646	CN	54	M	26.57	healthy
+E.SRR341647	CN	32	M	25.71	healthy
+E.SRR341648	CN	42	M	26.22	healthy
+E.SRR341649	CN	43	M	25	healthy
+E.SRR341650	CN	23	M	26.73	healthy
+E.SRR341651	CN	46	M	27.12	healthy
+E.SRR341652	CN	52	M	25.71	healthy
+E.SRR341691	CN	27	F	19.53	healthy
+E.SRR341693	CN	59	F	19.15	healthy
+E.SRR341694	CN	23	M	18.72	healthy
+E.SRR341695	CN	24	M	19.35	healthy
+E.SRR341696	CN	24	M	19.03	healthy
+E.SRR341697	CN	22	M	19.92	healthy
+E.SRR341698	CN	23	M	19.96	healthy
+E.SRR341699	CN	25	M	18.59	healthy
+E.SRR341700	CN	29	M	19.84	healthy
+E.SRR341701	CN	23	M	19.38	healthy
+E.SRR341702	CN	24	M	20.66	healthy
+E.SRR341703	CN	22	M	19.36	healthy
+E.SRR341704	CN	21	M	19.05	healthy
+E.SRR341705	CN	25	M	19.44	healthy
+E.SRR341706	CN	33	M	20.31	healthy
+E.SRR341707	CN	39	M	19.49	healthy
+E.SRR341708	CN	32	F	25.39	healthy
+E.SRR341709	CN	30	F	26.71	healthy
+E.SRR341710	CN	40	F	24.89	healthy
+E.SRR341711	CN	38	F	25.81	healthy
+E.SRR341712	CN	48	M	26.45	healthy
+E.SRR341713	CN	68	M	28.3	healthy
+E.SRR341714	CN	46	M	25.4	healthy
+E.SRR341715	CN	33	M	25.18	healthy
+E.SRR341716	CN	30	M	25.71	healthy
+E.SRR341717	CN	41	M	25.1	healthy
+E.SRR341718	CN	32	M	25.73	healthy
+E.SRR341719	CN	37	M	24.77	healthy
+E.SRR341720	CN	39	M	27.24	healthy
+E.SRR341721	CN	26	M	25.47	healthy
+E.SRR341722	CN	24	M	25.21	healthy
+E.SRR341723	CN	28	M	25.59	healthy
+F.S001	FR	52	F	20	healthy
+F.S003	FR	70	M	22	healthy
+F.S027	FR	74	M	27	healthy
+F.S030	FR	54	M	26	healthy
+F.S040	FR	57	M	24	healthy
+F.S053	FR	62	F	21	healthy
+F.S105	FR	68	M	26	healthy
+F.S110	FR	59	F	25	healthy
+F.S115	FR	72	M	24	healthy
+F.S116	FR	55	F	20	healthy
+F.S118	FR	64	F	20	healthy
+F.S121	FR	59	M	25	healthy
+F.S129	FR	63	F	27	healthy
+F.S132	FR	69	F	25	healthy
+F.S139	FR	61	F	24	healthy
+F.S142	FR	68	F	25	healthy
+F.S152	FR	63	F	21	healthy
+F.S156	FR	62	M	24	healthy
+F.S166	FR	64	M	27	healthy
+F.S169	FR	65	F	24	healthy
+F.S173	FR	59	F	25	healthy
+F.S187	FR	70	M	25	healthy
+F.S192	FR	29	M	24.49	healthy
+F.S193	FR	25	M	24.15	healthy
+F.S194	FR	66	F	28	healthy
+F.S195	FR	63	F	23	healthy
+F.S198	FR	63	M	25	healthy
+F.S212	FR	67	M	27	healthy
+F.S213	FR	61	F	23	healthy
+F.S221	FR	71	F	23	healthy
+F.S276	FR	63	M	NA	healthy
+F.S305	FR	50	M	25	healthy
+F.S316	FR	62	M	23	healthy
+F.S349	FR	61	M	23	healthy
+F.S393	FR	67	F	23	healthy
+F.S398	FR	44	F	26	healthy
+F.S399	FR	63	F	22	healthy
+F.S400	FR	67	M	21	healthy
+F.S542	FR	46	F	29	healthy
+F.S558	FR	67	F	28	healthy
+F.S568	FR	35	M	23	healthy
+F.S684	FR	67	M	25	healthy
+F.S696	FR	52	M	24	healthy
+F.S716	FR	60	F	28	healthy
+F.S719	FR	49	F	23	healthy
+F.S721	FR	62	F	20	healthy
+F.S726	FR	72	F	25	healthy
+F.S730	FR	38	F	22	healthy
+F.S751	FR	66	M	25	healthy
+F.S759	FR	74	M	27	healthy
+F.S902	FR	56	F	NA	healthy
+H.SRR1927149	HZ	43	F	20	healthy
+H.SRR1929408	HZ	40	F	20	healthy
+H.SRR1929484	HZ	29	F	20	healthy
+H.SRR1929563	HZ	34	M	20	healthy
+H.SRR1929574	HZ	16	M	20	healthy
+H.SRR1930121	HZ	30	M	20	healthy
+H.SRR1930122	HZ	21	M	20	healthy
+H.SRR1930123	HZ	23	M	20	healthy
+H.SRR1930128	HZ	17	M	20	healthy
+H.SRR1930132	HZ	15	M	20	healthy
+H.SRR1930133	HZ	37	M	20	healthy
+H.SRR1930134	HZ	13	M	20	healthy
+H.SRR1930136	HZ	43	M	20	healthy
+H.SRR1930138	HZ	38	M	20	healthy
+H.SRR1930140	HZ	24	M	20	healthy
+H.SRR1930141	HZ	65	M	20	healthy
+H.SRR1930142	HZ	40	M	20	healthy
+H.SRR1930143	HZ	48	M	20	healthy
+H.SRR1930144	HZ	29	F	20	healthy
+H.SRR1930145	HZ	22	M	20	healthy
+H.SRR1930149	HZ	24	M	20	healthy
+H.SRR1930176	HZ	70	F	20	healthy
+H.SRR1930177	HZ	30	M	20	healthy
+H.SRR1930179	HZ	38	F	20	healthy
+H.SRR1930187	HZ	20	F	20	healthy
+H.SRR1930244	HZ	47	F	20	healthy
+J.AP01	JP	21	F	18.8	healthy
+J.AP02	JP	23	F	18.6	healthy
+J.AP03	JP	21	F	19.9	healthy
+J.AP05	JP	20	F	23.2	healthy
+J.AP06	JP	22	M	22.7	healthy
+J.AP07	JP	22	M	20.8	healthy
+J.AP08	JP	19	F	22.3	healthy
+J.AP11	JP	23	F	19.1	healthy
+J.AP12	JP	25	M	23.7	healthy
+J.AP15	JP	22	F	24.4	healthy
+J.AP17	JP	20	M	19.4	healthy
+J.AP18	JP	21	M	21.5	healthy
+J.AP19	JP	20	M	19.4	healthy
+J.AP21	JP	21	F	19.4	healthy
+J.AP22	JP	22	F	19.5	healthy
+J.AP23	JP	21	F	20.5	healthy
+J.AP24	JP	19	M	25.1	healthy
+J.AP25	JP	19	M	18.7	healthy
+J.AP26	JP	21	M	22.2	healthy
+J.AP27	JP	20	F	22.9	healthy
+J.AP28	JP	20	F	24.8	healthy
+J.AP30	JP	21	F	19.2	healthy
+J.AP31	JP	33	M	28	healthy
+J.AP32	JP	19	M	21.8	healthy
+J.AP33	JP	23	M	23.8	healthy
+J.AP34	JP	20	F	21.9	healthy
+J.AP36	JP	19	F	19.6	healthy
+J.AP37	JP	21	F	21.2	healthy
+J.AP38	JP	19	M	22.6	healthy
+J.AP39	JP	23	M	20	healthy
+J.AP40	JP	19	M	20.1	healthy
+J.FA01	JP	36	M	24.2	healthy
+J.FA02	JP	47	M	20.5	healthy
+J.FA03	JP	50	M	21.3	healthy
+J.FA05	JP	50	M	25.2	healthy
+J.FA06	JP	35	M	25.1	healthy
+J.FA07	JP	37	M	21.8	healthy
+J.FA08	JP	42	F	21.2	healthy
+J.FA09	JP	38	M	21.7	healthy
+J.FA10	JP	28	F	20.9	healthy
+J.FA11	JP	39	M	24.2	healthy
+J.FA12	JP	42	M	25.3	healthy
+J.FA13	JP	41	M	22.2	healthy
+J.FA14	JP	39	M	23.6	healthy
+J.FA15	JP	48	F	19.5	healthy
+J.FA16	JP	40	M	22.1	healthy
+J.FA17	JP	39	F	22.6	healthy
+J.FA19	JP	48	F	21.4	healthy
+J.FA21	JP	42	M	21.1	healthy
+J.FA22	JP	50	M	25.5	healthy
+J.FA23	JP	45	M	21.9	healthy
+J.FA24	JP	35	M	25	healthy
+J.FA25	JP	41	M	22	healthy
+J.FA26	JP	34	M	23.3	healthy
+J.FA27	JP	50	M	20.9	healthy
+J.FA28	JP	35	M	23	healthy
+J.FA30	JP	31	M	23.1	healthy
+J.FB01	JP	41	M	22	healthy
+J.FB02	JP	36	M	25.6	healthy
+J.FB04	JP	31	M	20.5	healthy
+J.FB05	JP	38	M	21.5	healthy
+J.FB06	JP	33	M	24.2	healthy
+J.FB07	JP	31	M	24.6	healthy
+J.FB08	JP	29	M	22.2	healthy
+J.FB09	JP	28	M	26.5	healthy
+J.FB10	JP	28	M	21.4	healthy
+J.FM01	JP	23	F	20.7	healthy
+J.FM02	JP	22	F	21.5	healthy
+J.FM03	JP	23	M	21.4	healthy
+J.FM04	JP	22	M	20.5	healthy
+J.FM14	JP	22	M	20.5	healthy
+J.FM21	JP	49	M	21	healthy
+J.FP01	JP	40	F	22.3	healthy
+J.FP03	JP	25	M	22.5	healthy
+J.FP04	JP	35	M	19.66	healthy
+J.FP05	JP	55	M	27.6	healthy
+J.FT01	JP	54	M	22.4	healthy
+J.FT02	JP	39	F	22.9	healthy
+J.FT03	JP	34	F	18.7	healthy
+J.FT06	JP	41	M	21.2	healthy
+J.FT07	JP	27	M	25	healthy
+J.FT08	JP	29	M	21.3	healthy
+J.FT09	JP	34	M	21.1	healthy
+J.FT10	JP	30	M	23.6	healthy
+J.FT12	JP	37	F	20.6	healthy
+J.FT13	JP	25	F	18.9	healthy
+J.FT14	JP	39	F	20	healthy
+J.FT15	JP	37	M	22.8	healthy
+J.FT16	JP	34	F	20	healthy
+J.FT18	JP	36	F	20.5	healthy
+J.FT19	JP	33	F	21.3	healthy
+J.FT20	JP	40	F	18.9	healthy
+J.FT21	JP	31	F	18.8	healthy
+J.TS11	JP	60	M	24.8	healthy
+J.TS21	JP	46	M	22.14	healthy
+J.TS29	JP	48	F	18.66	healthy
+J.TS33	JP	55	F	19.92	healthy
+J.TS41	JP	48	M	23.03	healthy
+K.ERR247139	KR				healthy
+K.ERR247140	KR				healthy
+K.ERR247141	KR				healthy
+K.ERR247142	KR				healthy
+K.ERR247143	KR				healthy
+K.ERR247144	KR				healthy
+K.ERR247145	KR				healthy
+K.ERR247146	KR				healthy
+K.ERR247147	KR				healthy
+K.ERR247148	KR				healthy
+K.ERR247149	KR				healthy
+K.ERR247150	KR				healthy
+K.ERR247153	KR				healthy
+K.ERR247154	KR				healthy
+K.ERR247155	KR				healthy
+K.ERR247156	KR				healthy
+K.ERR247157	KR				healthy
+K.ERR247158	KR				healthy
+K.ERR247159	KR				healthy
+K.ERR247160	KR				healthy
+K.ERR247161	KR				healthy
+K.ERR247162	KR				healthy
+K.ERR247163	KR				healthy
+K.ERR247164	KR				healthy
+K.ERR247165	KR				healthy
+K.ERR247166	KR				healthy
+K.ERR247167	KR				healthy
+K.ERR247168	KR				healthy
+K.ERR247169	KR				healthy
+K.ERR247170	KR				healthy
+K.ERR247171	KR				healthy
+K.ERR247172	KR				healthy
+K.ERR247173	KR				healthy
+K.ERR247174	KR				healthy
+K.ERR247175	KR				healthy
+P.SRR1761666	PE	13		18.77	healthy
+P.SRR1761667	PE	36	M	23.05	healthy
+P.SRR1761670	PE	20	F	NA	NA
+P.SRR1761672	PE	26	F	19.53	healthy
+P.SRR1761673	PE	40	F	NA	NA
+P.SRR1761698	PE	30	M	NA	NA
+P.SRR1761699	PE	25	F	23.95	healthy
+P.SRR1761704	PE	20	F	21.27	healthy
+P.SRR1761708	PE	52	F	19.47	healthy
+P.SRR1761711	PE	30	M	22.6	healthy
+P.SRR1761712	PE	21	F	22.14	healthy
+P.SRR1761715	PE	12	M	19.84	healthy
+S.ERR260147	SE	71.39	F	24.8	healthy
+S.ERR260153	SE	70.42	F	25.8	healthy
+S.ERR260170	SE	71.11	F	20.4	healthy
+S.ERR260171	SE	70.55	F	23.7	healthy
+S.ERR260180	SE	71.38	F	28.8	healthy
+S.ERR260193	SE	70.25	F	21.3	healthy
+S.ERR260205	SE	70.63	F	21.6	healthy
+S.ERR260215	SE	71.26	F	20.6	healthy
+S.ERR260216	SE	71.84	F	23.1	healthy
+S.ERR260217	SE	71.53	F	21.8	healthy
+S.ERR260218	SE	71.44	F	25.8	healthy
+S.ERR260221	SE	70.47	F	27.4	healthy
+S.ERR260223	SE	71.45	F	27.1	healthy
+S.ERR260225	SE	70.33	F	27.5	healthy
+S.ERR260226	SE	69.7	F	21.1	healthy
+S.ERR260227	SE	69.74	F	22.6	healthy
+S.ERR260230	SE	69.87	F	26.5	healthy
+S.ERR260231	SE	70.21	F	26.1	healthy
+S.ERR260234	SE	70.43	F	25.7	healthy
+S.ERR260242	SE	69.78	F	24	healthy
+S.ERR260243	SE	69.89	F	25.1	healthy
+S.ERR260246	SE	70.24	F	26.1	healthy
+S.ERR260251	SE	69.27	F	29.7	healthy
+S.ERR260252	SE	69.48	F	18.6	healthy
+S.ERR260253	SE	70.01	F	26.6	healthy
+S.ERR260255	SE	69.42	F	25.1	healthy
+S.ERR260256	SE	69.49	F	28.8	healthy
+S.ERR260259	SE	70.24	F	21.6	healthy
+S.ERR260260	SE	70.34	F	21.5	healthy
+S.ERR260263	SE	70.06	F	24.6	healthy
+S.ERR260264	SE	70.21	F	24.2	healthy
+S.ERR260265	SE	70.85	F	21.9	healthy
+S.ERR260266	SE	71.1	F	28.4	healthy
+S.ERR260267	SE	69.03	F	26.1	healthy
+S.ERR260268	SE	70.05	F	23.2	healthy

@@ -1,0 +1,56 @@
+(TS=("gut") OR TS=("intestinal")) AND ( TS=(microorganism) OR TS=(microbiota) OR TS=(microflora) OR TS=(flora) OR TS=(microbiome) OR TS=("microbe*") OR TS=("bacteri*") OR TS=(germ) )
+
+Total：100,581
+AND ( TS=("human*") OR TS=("Homo sapiens") ): 29,774
+AND ( TS=(mouse) OR TS=(mice) OR TS=("mus*") OR TS=("Mus musculus") ): 25,883
+AND ( TS=(rat) OR TS=("Rattus norvegicus") OR TS=("Rattus*")  ): 10,819
+AND ( TS=(Rabbit) OR TS=("Oryctolagus cuniculus") ): 980
+AND ( TS=(Pig) OR TS=("Sus scrofa") ): 4374
+AND ( TS=(Chicken) OR TS=("Gallus gallus") ): 4167
+AND ( TS=(Monkey) OR TS=(rhesus) OR TS=(machin) ): 377
+
+
+TS=("bile acid*")
+Total: 25,499
+AND ( TS=("human*") OR TS=("Homo sapiens") ): 6033
+AND ( TS=(mouse) OR TS=(mice) OR TS=("mus*") OR TS=("Mus musculus") ): 5660
+AND ( TS=(rat) OR TS=("Rattus norvegicus") OR TS=("Rattus*")  ): 6978
+AND ( TS=(Rabbit) OR TS=("Oryctolagus cuniculus") ): 438
+AND ( TS=(Pig) OR TS=("Sus scrofa") ): 548
+AND ( TS=(Chicken) OR TS=("Gallus gallus") ): 202
+AND ( TS=(Monkey) OR TS=(rhesus) OR TS=(machin) ): 130
+
+
+
+TS=("bile salt hydrolase") OR TS=(BSH) 
+Total: 1505
+AND ( TS=("human*") OR TS=("Homo sapiens") ): 310
+AND ( TS=(mouse) OR TS=(mice) OR TS=("mus*") OR TS=("Mus musculus") ): 266
+AND ( TS=(rat) OR TS=("Rattus norvegicus") OR TS=("Rattus*")  ): 117
+AND ( TS=(Rabbit) OR TS=("Oryctolagus cuniculus") ): 12
+AND ( TS=(Pig) OR TS=("Sus scrofa") ): 14
+AND ( TS=(Chicken) OR TS=("Gallus gallus") ): 41
+AND ( TS=(Monkey) OR TS=(rhesus) OR TS=(machin) ): 0
+
+
+TS=("bile acid*") AND 菌群
+Total: 2746
+AND ( TS=("human*") OR TS=("Homo sapiens") ): 801
+AND ( TS=(mouse) OR TS=(mice) OR TS=("mus*") OR TS=("Mus musculus") ): 1062
+AND ( TS=(rat) OR TS=("Rattus norvegicus") OR TS=("Rattus*")  ): 486
+AND ( TS=(Rabbit) OR TS=("Oryctolagus cuniculus") ): 9
+AND ( TS=(Pig) OR TS=("Sus scrofa") ): 73
+AND ( TS=(Chicken) OR TS=("Gallus gallus") ): 37
+AND ( TS=(Monkey) OR TS=(rhesus) OR TS=(machin) ): 3
+
+
+
+(TS=("bile salt hydrolase") OR TS=(BSH)) AND 菌群
+Total: 338
+AND ( TS=("human*") OR TS=("Homo sapiens") ): 131
+AND ( TS=(mouse) OR TS=(mice) OR TS=("mus*") OR TS=("Mus musculus") ): 98
+AND ( TS=(rat) OR TS=("Rattus norvegicus") OR TS=("Rattus*")  ): 
+AND ( TS=(Rabbit) OR TS=("Oryctolagus cuniculus") ): 
+AND ( TS=(Pig) OR TS=("Sus scrofa") ): 
+AND ( TS=(Chicken) OR TS=("Gallus gallus") ): 
+AND ( TS=(Monkey) OR TS=(rhesus) OR TS=(machin) ): 

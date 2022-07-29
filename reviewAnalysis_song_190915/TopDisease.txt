@@ -1,0 +1,22 @@
+Obesity	27
+Kidney Disease	20
+Liver	16
+Diabetes	14
+Fatty Liver	13
+Heart Failure	10
+Liver Disease	9
+Prevention	9
+HIV	8
+Insulin Resistance	6
+Cancer	6
+Stress	5
+Periodontitis	5
+myocardial infarction	4
+Metabolic Syndrome	4
+EGG	3
+Type 2 Diabetes	3
+Asthma	3
+Inflammatory Bowel Disease	2
+colorectal cancer	2
+Coronary Artery Disease	2
+Chronic Obstructive Pulmoonary Disease	2

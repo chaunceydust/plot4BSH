@@ -1,0 +1,5 @@
+group2	p
+L.animalis	0.64
+L.fermentum	0.219
+L.reuteri	0.556
+L.salivarius	0.676

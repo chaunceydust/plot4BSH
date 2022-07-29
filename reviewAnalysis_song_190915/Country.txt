@@ -1,0 +1,11 @@
+United States	183
+China	38
+Canada	33
+Italy	23
+Australia	23
+Spain	18
+Ireland	14
+Germany	13
+Netherlands	13
+France	12
+Sweden	11

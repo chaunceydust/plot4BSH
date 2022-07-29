@@ -1,0 +1,22 @@
+Nutrients	19
+PLoS ONE	12
+Microbiome	6
+Curr. Opin. Lipidol.	6
+Circ. Res.	6
+Front Microbiol	5
+Adv Nutr	5
+Clin. Sci.	5
+Atherosclerosis	5
+Circulation	5
+Food Funct	5
+Pharmacol. Res	5
+Mol Nutr Food Res	4
+Curr Atheroscler Rep	4
+Gut Microbes	4
+Am.J.Clin.Nutr.	4
+World J.Gastroenterol	4
+Gut	3
+Genome Med	3
+Nat Rev Cardiol	3
+Clin J Am Soc Nephrol	3
+Int J Mol Sci	3
